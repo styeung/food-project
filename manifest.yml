@@ -1,3 +1,4 @@
 ---
 applications:
   - name: food-project
+    command: bundle exec rails s -p $PORT
